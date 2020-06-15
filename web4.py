@@ -1,4 +1,4 @@
-# face Detection
+# face Detection in image
 import numpy
 import cv2
 import math
