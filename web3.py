@@ -1,3 +1,5 @@
+# Add text to the frame
+import numpy as np
 import numpy as np
 import cv2
 # create black image
