@@ -1,4 +1,4 @@
-# face Detection
+# face Detection on web cam
 import numpy
 import cv2
 facecasecade=cv2.CascadeClassifier('face.xml')
