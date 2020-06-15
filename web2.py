@@ -1,3 +1,4 @@
+# Drawing line and circle on frame
 import numpy as np
 import cv2
 # create black image
