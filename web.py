@@ -1,4 +1,4 @@
-# face Detection
+# Accessing the web cam
 import numpy
 import cv2
 
